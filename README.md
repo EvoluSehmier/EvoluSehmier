@@ -68,8 +68,8 @@ Across both domains, my approach is structured:
 I aim to build a hybrid skillset in IT operations, combining project coordination and cybersecurity analysis to support secure, efficient, and well-structured technical environments.
 
 ## 📫 Contact
-Email: Evolu.Sehmier@outlook.com | 
+Email: Evolu.Sehmier@outlook.com
 
-Linkedin: www.linkedin.com/in/evolu-s-b6242197 | 
+Linkedin: https://www.linkedin.com/in/evolu-s-b6242197
 
 Medium: https://medium.com/@evolusehmier
