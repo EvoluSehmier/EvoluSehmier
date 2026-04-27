@@ -69,5 +69,7 @@ I aim to build a hybrid skillset in IT operations, combining project coordinatio
 
 ## 📫 Contact
 Email: Evolu.Sehmier@outlook.com | 
+
 Linkedin: www.linkedin.com/in/evolu-s-b6242197 | 
+
 Medium: https://medium.com/@evolusehmier
