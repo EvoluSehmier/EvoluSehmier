@@ -1,4 +1,4 @@
-# High Level Overiew of Project Coordination and Project Management experience
+# High Level Overiew of my Project Coordination and Project Management experience
 
 I specialize in improving workflows, coordinating IT projects, and organizing complex systems into simple, efficient processes. Because of my versitility and adapatability, I have guided various projects through different SDLC methodlogies; weather its Agile, Hybrid or Waterfall
 
